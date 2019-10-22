@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id_abonos;datatype:int,name:Nit;datatype:int,name:abono;datatype:string,name:fecha_Abono;datatype:string" />
+</info>

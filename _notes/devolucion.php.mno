@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ventas" value="name:nomb_product;datatype:string,name:peso;datatype:real,name:cant;datatype:int,name:precio;datatype:real,name:valor_unitario;datatype:real,name:valor_iva;datatype:real" />
+	<infoitem key="UD_Recordset1" value="name:id_venta;datatype:int,name:id_fact;datatype:int,name:id_usuarios;datatype:int,name:id_caja;datatype:int,name:id_product;datatype:int,name:peso;datatype:real,name:cant;datatype:int,name:valor_unitario;datatype:real,name:precio;datatype:real,name:valor_iva;datatype:real,name:activo;datatype:int" />
+</info>

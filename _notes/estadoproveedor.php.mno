@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:nit_proveedor;datatype:int,name:nombre_proveedor;datatype:string,name:total_compra;datatype:string,name:fecha_compra;datatype:string,name:detalle;datatype:string" />
+</info>

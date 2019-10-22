@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_facturas" value="name:id_fact;datatype:int,name:nomb_caja;datatype:string,name:nombre;datatype:string" />
+</info>

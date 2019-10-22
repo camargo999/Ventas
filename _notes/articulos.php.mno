@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id_product;datatype:int,name:id_categoria;datatype:int,name:iva;datatype:int,name:cod_product;datatype:string,name:nomb_product;datatype:string,name:id_medida;datatype:int,name:precio_venta;datatype:real,name:promocion;datatype:int,name:cant_prom;datatype:real,name:valor_prom;datatype:int,name:activo;datatype:int" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:id_empleado;datatype:int,name:dias;datatype:string,name:sub_trans;datatype:string,name:salud;datatype:string,name:pension;datatype:string,name:horas_extras;datatype:real,name:total;datatype:real,name:id_empleado;datatype:int,name:cedula;datatype:string,name:nombre_empleado;datatype:string,name:tel_empleado;datatype:string,name:dir_empleado;datatype:string,name:salario;datatype:int,name:eps_empleado;datatype:string,name:fondo_pension;datatype:string,name:arl;datatype:string,name:caja_comp;datatype:string" />
+</info>

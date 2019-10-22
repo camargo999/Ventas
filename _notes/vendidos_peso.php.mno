@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_vendidos" value="name:cod_product;datatype:string,name:nomb_product;datatype:string,name:peso;datatype:real,name:cant;datatype:int,name:precio;datatype:real,name:id_fact;datatype:int" />
+</info>

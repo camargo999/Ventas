@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:fecha_entrada;datatype:datetime,name:valor_entrada;datatype:int,name:devoluciones;datatype:int,name:fecha_cierre;datatype:datetime,name:total_cierre;datatype:int" />
+</info>
