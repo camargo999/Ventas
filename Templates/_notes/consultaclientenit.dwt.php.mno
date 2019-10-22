@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Nombres;datatype:string,name:Nit;datatype:int,name:total_fact;datatype:real,name:estado;datatype:int,name:fecha_fact;datatype:datetime,name:id_fact;datatype:int,name:id_product;datatype:int,name:nomb_product;datatype:string,name:precio;datatype:real" />
+	<infoitem key="UD_Recordset2" value="name:precio;datatype:real" />
+	<infoitem key="UD_Recordset3" value="name:id_abonos;datatype:int,name:Nit;datatype:int,name:abono;datatype:string,name:fecha_Abono;datatype:string" />
+	<infoitem key="UD_Recordset4" value="name:SUM( abonos.abono );datatype:real" />
+</info>
