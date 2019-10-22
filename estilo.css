@@ -1,0 +1,28 @@
+@charset "utf-8";
+.letter {
+  font-family: 'Finger Paint', serif;
+  font-size: 14px;
+  color:#FFF
+}
+.ses {
+	color: #5B94EE;
+	
+}
+.tabla {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+}
+body,td,th {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #485d63;
+
+}
+.total {
+	position:absolute;
+	left: 505px;
+	top: 216px;
+	color:#00F;
+	font-size:18px;
+}
+#form3 input {
+}
